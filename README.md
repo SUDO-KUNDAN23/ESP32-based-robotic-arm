@@ -46,7 +46,7 @@ This project demonstrates how to control multiple servo motors using an **ESP32*
 
 ## 📷 Screenshot
 
-![Code Example](./path-to-your-screenshot.png)
+![Code Example](C:\Users\USER\OneDrive\Pictures\Screenshots.png)
 
 ## 📄 License
 
