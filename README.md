@@ -46,7 +46,7 @@ This project demonstrates how to control multiple servo motors using an **ESP32*
 
 ## 📷 Screenshot
 
-![Code Example]([C:\Users\USER\OneDrive\Pictures\Screenshots.png](https://github.com/SUDO-KUNDAN23/ESP32-based-robotic-arm/blob/aa43a10b6a0710fe458f0deb880a4172914d8849/Screenshot%20(202).png))
+![imag alt](https://github.com/SUDO-KUNDAN23/ESP32-based-robotic-arm/blob/aa43a10b6a0710fe458f0deb880a4172914d8849/Screenshot%20(202).png))
 
 ## 📄 License
 
