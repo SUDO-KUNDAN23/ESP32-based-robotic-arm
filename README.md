@@ -47,6 +47,11 @@ This project demonstrates how to control multiple servo motors using an **ESP32*
 ## 📷 Screenshot
 
 ![imag alt](https://github.com/SUDO-KUNDAN23/ESP32-based-robotic-arm/blob/aa43a10b6a0710fe458f0deb880a4172914d8849/Screenshot%20(202).png))
+In this video, I demonstrate how a robotic arm can be controlled wirelessly over Wi-Fi using an ESP8266 microcontroller and the PCA9685 16-channel PWM driver. The ESP8266 acts as the brain, while the PCA9685 smoothly handles multiple servo motors that power the robotic arm joints.
+
+
+https://github.com/user-attachments/assets/1eb0bad3-a87d-498f-b078-c483548944d1
+
 
 ## 📄 License
 
