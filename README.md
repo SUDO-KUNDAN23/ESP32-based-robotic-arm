@@ -1,10 +1,10 @@
-# 🚀 ESP32 Servo Control using Blynk and PCA9685
+# 🚀 ESP8266 Servo Control using Blynk and PCA9685
 
-This project demonstrates how to control multiple servo motors using an **ESP32**, a **PCA9685 16-channel PWM driver**, and the **Blynk IoT platform**. You can control up to 5 servos remotely from your smartphone through the Blynk app.
+This project demonstrates how to control multiple servo motors using an **ESP8266**, a **PCA9685 16-channel PWM driver**, and the **Blynk IoT platform**. You can control up to 5 servos remotely from your smartphone through the Blynk app.
 
 ## 🔧 Hardware Required
 
-- ESP32 development board  
+- ESP8266 development board  
 - PCA9685 PWM driver module (I2C based)  
 - 5x Servo Motors (SG90 or similar)  
 - External power supply for servos  
@@ -20,7 +20,7 @@ This project demonstrates how to control multiple servo motors using an **ESP32*
 
 ## 🧠 How It Works
 
-- The ESP32 connects to your WiFi and Blynk cloud.
+- The ESP8266 connects to your WiFi and Blynk cloud.
 - Virtual pins (V0 to V4) from the Blynk app send angle values (0–180°).
 - The PCA9685 receives PWM values via I2C to rotate each servo accordingly.
 
@@ -40,7 +40,7 @@ This project demonstrates how to control multiple servo motors using an **ESP32*
    - `Adafruit PWMServoDriver`
    - `Blynk` and `BlynkSimpleEsp32`
 2. Replace your WiFi SSID, password, and Blynk Auth token in the code.
-3. Upload the code to ESP32.
+3. Upload the code to ESP8266.
 4. Connect servos to PCA9685 and power everything up.
 5. Use sliders on Blynk (V0 to V4) to control servos.
 
